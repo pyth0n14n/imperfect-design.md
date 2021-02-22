@@ -50,6 +50,18 @@ The list below is compiled to inform, guide, and inspire budding security resear
 
 # NXP
 
+## i.MX50
+
+* https://blog.quarkslab.com/vulnerabilities-in-high-assurance-boot-of-nxp-imx-microprocessors.html
+
+## i.MX53
+
+* https://blog.quarkslab.com/vulnerabilities-in-high-assurance-boot-of-nxp-imx-microprocessors.html
+
+## i.MX6
+
+* https://blog.quarkslab.com/vulnerabilities-in-high-assurance-boot-of-nxp-imx-microprocessors.html
+
 ## LPC
 
 * https://recon.cx/2017/brussels/resources/slides/RECON-BRX-2017-Breaking_CRP_on_NXP_LPC_Microcontrollers_slides.pdf
