@@ -65,6 +65,7 @@ The list below is compiled to inform, guide, and inspire budding security resear
 ## 78K0
 
 * [Fill your Boots: Enhanced Embedded BootloaderExploits via Fault Injection and Binary Analysis](https://tches.iacr.org/index.php/TCHES/article/download/8727/8327/)
+* [Shaping the Glitch: Optimizing Voltage Fault Injection Attacks](https://tches.iacr.org/index.php/TCHES/article/download/7390/6562/)
 
 # STMicro
 
@@ -84,11 +85,19 @@ The list below is compiled to inform, guide, and inspire budding security resear
 
 * https://medium.com/@LargeCardinal/how-to-bypass-debug-disabling-and-crp-on-stm32f103-7116e7abb546
 
+## STM32F373
+
+* [Shaping the Glitch: Optimizing Voltage Fault Injection Attacks](https://tches.iacr.org/index.php/TCHES/article/download/7390/6562/)
+
 # TI
 
 ## MSP430
 
 * [Practical Attacks against the MSP430 BSL](https://fahrplan.events.ccc.de/congress/2008/Fahrplan/attachments/1191_goodspeed_25c3_bslc.pdf)
+
+## MSP430F5172
+
+* [Shaping the Glitch: Optimizing Voltage Fault Injection Attacks](https://tches.iacr.org/index.php/TCHES/article/download/7390/6562/)
 
 # General interest
 
