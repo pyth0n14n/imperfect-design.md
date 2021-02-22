@@ -10,6 +10,7 @@ The list below is compiled to inform, guide, and inspire budding security resear
 
 ## ESP32
 
+* https://raelize.com/blog/espressif-esp32-bypassing-encrypted-secure-boot-cve-2020-13629/
 * https://limitedresults.com/2019/11/pwn-the-esp32-forever-flash-encryption-and-sec-boot-keys-extraction/
 * https://limitedresults.com/2019/09/pwn-the-esp32-secure-boot/
 * https://limitedresults.com/2019/08/pwn-the-esp32-crypto-core/
@@ -71,6 +72,12 @@ The list below is compiled to inform, guide, and inspire budding security resear
 * [Fill your Boots: Enhanced Embedded BootloaderExploits via Fault Injection and Binary Analysis](https://tches.iacr.org/index.php/TCHES/article/download/8727/8327/)
 * https://i.blackhat.com/eu-19/Thursday/eu-19-Temeiza-Breaking-Bootloaders-On-The-Cheap-2.pdf
 * https://toothless.co/blog/bootloader-bypass-part1/
+
+# Qualcomm
+
+## MSM8994
+
+* https://blog.quarkslab.com/analysis-of-qualcomm-secure-boot-chains.html
 
 # Renesas
 
