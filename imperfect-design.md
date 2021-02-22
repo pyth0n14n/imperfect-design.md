@@ -85,6 +85,10 @@ The list below is compiled to inform, guide, and inspire budding security resear
 
 * https://medium.com/@LargeCardinal/how-to-bypass-debug-disabling-and-crp-on-stm32f103-7116e7abb546
 
+## STM32F205
+
+* https://blog.kraken.com/post/3662/kraken-identifies-critical-flaw-in-trezor-hardware-wallets/
+
 ## STM32F373
 
 * [Shaping the Glitch: Optimizing Voltage Fault Injection Attacks](https://tches.iacr.org/index.php/TCHES/article/download/7390/6562/)
