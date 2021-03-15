@@ -28,6 +28,10 @@ The list below is compiled to inform, guide, and inspire budding security resear
 
 * https://adamsblog.rfidiot.org/2013/02/atmel-sam7xc-crypto-co-processor-key.html
 
+## PIC18F452
+
+* [Heart of Darkness - exploring the uncharted backwaters of HID iCLASS security](https://get.meriac.com/docs/HID-iCLASS-security.pdf)
+
 ## PIC18F1320
 
 * https://www.bunniestudios.com/blog/?page_id=40
