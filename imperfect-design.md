@@ -15,6 +15,13 @@ The list below is compiled to inform, guide, and inspire budding security resear
 * https://limitedresults.com/2019/09/pwn-the-esp32-secure-boot/
 * https://limitedresults.com/2019/08/pwn-the-esp32-crypto-core/
 
+# Infineon
+
+## SLE95250
+
+* [Compromising device security via NVM controller vulnerability](https://www.cl.cam.ac.uk/~sps32/PAINE2020_NVM.pdf)
+* https://www.cl.cam.ac.uk/~sps32/HWIO_OTB.pdf
+
 # Microchip
 
 ## AT91SAM7XC256
