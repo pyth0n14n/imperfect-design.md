@@ -28,11 +28,15 @@ The list below is compiled to inform, guide, and inspire budding security resear
 * [Compromising device security via NVM controller vulnerability](https://www.cl.cam.ac.uk/~sps32/PAINE2020_NVM.pdf)
 * https://www.cl.cam.ac.uk/~sps32/HWIO_OTB.pdf
 
-# Microchip
+# Microchip/Atmel
 
 ## AT91SAM7XC256
 
 * https://adamsblog.rfidiot.org/2013/02/atmel-sam7xc-crypto-co-processor-key.html
+
+## ATECC508A
+
+* https://i.blackhat.com/USA-20/Thursday/us-20-Heriveaux-Black-Box-Laser-Fault-Injection-On-A-Secure-Memory.pdf
 
 ## PIC18F452
 
