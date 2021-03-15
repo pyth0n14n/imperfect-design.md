@@ -6,6 +6,12 @@ The list below is compiled to inform, guide, and inspire budding security resear
 
 * https://fredericb.info/2016/10/amlogic-s905-soc-bypassing-not-so.html
 
+# Cypress
+
+## CY8C21434
+
+* https://syscall.eu/blog/2018/03/12/aigo_part2/
+
 # Espressif
 
 ## ESP32
