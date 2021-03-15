@@ -134,3 +134,4 @@ The list below is compiled to inform, guide, and inspire budding security resear
 * https://chip.fail/chipfail.pdf
 * https://research.nccgroup.com/wp-content/uploads/2020/02/NCC-Group-Whitepaper-Microcontroller-Readback-Protection-1.pdf
 * [Taking a Look into Execute-Only Memory](https://www.usenix.org/system/files/woot19-paper_schink.pdf)
+* https://www.cl.cam.ac.uk/~sps32/mcu_lock.html
