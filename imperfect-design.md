@@ -128,6 +128,7 @@ The list below is compiled to inform, guide, and inspire budding security resear
 ## STM32F205
 
 * https://blog.kraken.com/post/3662/kraken-identifies-critical-flaw-in-trezor-hardware-wallets/
+* https://www.riscure.com/uploads/2019/04/Riscure_OffensiveCon19_glitchingKeepkey.pdf
 
 ## STM32F373
 
