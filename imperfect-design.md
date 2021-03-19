@@ -38,6 +38,10 @@ The list below is compiled to inform, guide, and inspire budding security resear
 
 * https://i.blackhat.com/USA-20/Thursday/us-20-Heriveaux-Black-Box-Laser-Fault-Injection-On-A-Secure-Memory.pdf
 
+## ATSAMA5Dx
+
+* https://labs.f-secure.com/advisories/microchip-atsama5-soc-multiple-vulnerabilities-full-release/
+
 ## PIC18F452
 
 * [Heart of Darkness - exploring the uncharted backwaters of HID iCLASS security](https://get.meriac.com/docs/HID-iCLASS-security.pdf)
