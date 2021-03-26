@@ -17,6 +17,9 @@ The list below is compiled to inform, guide, and inspire budding security resear
 ## ESP32
 
 * https://raelize.com/blog/espressif-esp32-bypassing-encrypted-secure-boot-cve-2020-13629/
+* https://raelize.com/blog/espressif-systems-esp32-bypassing-flash-encryption/
+* https://raelize.com/blog/espressif-systems-esp32-controlling-pc-during-sb/
+* https://raelize.com/blog/espressif-systems-esp32-bypassing-sb-using-emfi/
 * https://limitedresults.com/2019/11/pwn-the-esp32-forever-flash-encryption-and-sec-boot-keys-extraction/
 * https://limitedresults.com/2019/09/pwn-the-esp32-secure-boot/
 * https://limitedresults.com/2019/08/pwn-the-esp32-crypto-core/
