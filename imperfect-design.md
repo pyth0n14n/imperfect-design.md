@@ -151,9 +151,17 @@ The list below is compiled to inform, guide, and inspire budding security resear
 
 * [Shaping the Glitch: Optimizing Voltage Fault Injection Attacks](https://tches.iacr.org/index.php/TCHES/article/download/7390/6562/)
 
+# Xilinx
+
+## Zynq-7000
+
+* https://www.xilinx.com/support/answers/76201.html
+* https://blog.ropcha.in/drafts/part-3-zynq-cve-2021-27208.html
+
 # General interest
 
 * https://chip.fail/chipfail.pdf
 * https://research.nccgroup.com/wp-content/uploads/2020/02/NCC-Group-Whitepaper-Microcontroller-Readback-Protection-1.pdf
 * [Taking a Look into Execute-Only Memory](https://www.usenix.org/system/files/woot19-paper_schink.pdf)
 * https://www.cl.cam.ac.uk/~sps32/mcu_lock.html
+* https://ryancor.medium.com/pulling-bits-from-rom-silicon-die-images-unknown-architecture-b73b6b0d4e5d
