@@ -101,6 +101,10 @@ The list below is compiled to inform, guide, and inspire budding security resear
 * https://i.blackhat.com/eu-19/Thursday/eu-19-Temeiza-Breaking-Bootloaders-On-The-Cheap-2.pdf
 * https://toothless.co/blog/bootloader-bypass-part1/
 
+## LPC55S69
+
+* https://oxide.computer/blog/lpc55/
+
 # Qualcomm
 
 ## MSM8994
