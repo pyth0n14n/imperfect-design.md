@@ -118,6 +118,12 @@ The list below is compiled to inform, guide, and inspire budding security resear
 * [Fill your Boots: Enhanced Embedded BootloaderExploits via Fault Injection and Binary Analysis](https://tches.iacr.org/index.php/TCHES/article/download/8727/8327/)
 * [Shaping the Glitch: Optimizing Voltage Fault Injection Attacks](https://tches.iacr.org/index.php/TCHES/article/download/7390/6562/)
 
+# SiLabs
+
+## EFM32 Gecko
+
+* https://limitedresults.com/2021/06/enter-the-efm32-gecko/
+
 # STMicro
 
 ## STM8
