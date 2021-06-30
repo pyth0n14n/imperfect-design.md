@@ -170,8 +170,11 @@ The list below is compiled to inform, guide, and inspire budding security resear
 
 # General interest
 
+* [The Sorcerer’s Apprentice Guide to Fault Attacks](https://eprint.iacr.org/2004/100.pdf)
 * https://chip.fail/chipfail.pdf
 * https://research.nccgroup.com/wp-content/uploads/2020/02/NCC-Group-Whitepaper-Microcontroller-Readback-Protection-1.pdf
 * [Taking a Look into Execute-Only Memory](https://www.usenix.org/system/files/woot19-paper_schink.pdf)
 * https://www.cl.cam.ac.uk/~sps32/mcu_lock.html
 * https://ryancor.medium.com/pulling-bits-from-rom-silicon-die-images-unknown-architecture-b73b6b0d4e5d
+* https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-the-theory/
+* https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-code-walkthrough/
