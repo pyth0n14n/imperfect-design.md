@@ -178,3 +178,4 @@ The list below is compiled to inform, guide, and inspire budding security resear
 * https://ryancor.medium.com/pulling-bits-from-rom-silicon-die-images-unknown-architecture-b73b6b0d4e5d
 * https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-the-theory/
 * https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-code-walkthrough/
+* [Design Considerations for EM Pulse Fault Injection](https://www.esat.kuleuven.be/cosic/publications/article-3086.pdf)
