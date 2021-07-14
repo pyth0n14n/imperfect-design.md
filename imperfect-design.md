@@ -31,6 +31,12 @@ The list below is compiled to inform, guide, and inspire budding security resear
 * [Compromising device security via NVM controller vulnerability](https://www.cl.cam.ac.uk/~sps32/PAINE2020_NVM.pdf)
 * https://www.cl.cam.ac.uk/~sps32/HWIO_OTB.pdf
 
+# MediaTek
+
+## MT8163V
+
+* https://research.nccgroup.com/2020/10/15/theres-a-hole-in-your-soc-glitching-the-mediatek-bootrom
+
 # Microchip/Atmel
 
 ## AT91SAM7XC256
@@ -162,6 +168,10 @@ The list below is compiled to inform, guide, and inspire budding security resear
 * [Shaping the Glitch: Optimizing Voltage Fault Injection Attacks](https://tches.iacr.org/index.php/TCHES/article/download/7390/6562/)
 
 # Xilinx
+
+## 7-series FPGA products
+
+* https://www.usenix.org/system/files/sec20-ender.pdf
 
 ## Zynq-7000
 
