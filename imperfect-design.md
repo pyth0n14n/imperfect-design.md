@@ -176,7 +176,8 @@ The list below is compiled to inform, guide, and inspire budding security resear
 ## Zynq-7000
 
 * https://www.xilinx.com/support/answers/76201.html
-* https://blog.ropcha.in/drafts/part-3-zynq-cve-2021-27208.html
+* https://blog.ropcha.in/part-3-zynq-cve-2021-27208.html
+* https://blog.ropcha.in/part-4-zynq-cve-2021-44850.html
 
 # General interest
 
