@@ -124,6 +124,14 @@ The list below is compiled to inform, guide, and inspire budding security resear
 * [Fill your Boots: Enhanced Embedded BootloaderExploits via Fault Injection and Binary Analysis](https://tches.iacr.org/index.php/TCHES/article/download/8727/8327/)
 * [Shaping the Glitch: Optimizing Voltage Fault Injection Attacks](https://tches.iacr.org/index.php/TCHES/article/download/7390/6562/)
 
+## RL78
+
+* https://fail0verflow.com/blog/2018/ps4-syscon/
+
+## RX65
+
+* https://www.collshade.fr/articles/reneshack/rx_glitch_article.html
+
 # SiLabs
 
 ## EFM32 Gecko
