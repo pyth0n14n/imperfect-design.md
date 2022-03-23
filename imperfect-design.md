@@ -110,6 +110,7 @@ The list below is compiled to inform, guide, and inspire budding security resear
 ## LPC55S69
 
 * https://oxide.computer/blog/lpc55/
+* https://oxide.computer/blog/another-vulnerability-in-the-lpc55s69-rom
 
 # Qualcomm
 
