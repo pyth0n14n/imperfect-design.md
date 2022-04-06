@@ -6,6 +6,12 @@ The list below is compiled to inform, guide, and inspire budding security resear
 
 * https://fredericb.info/2016/10/amlogic-s905-soc-bypassing-not-so.html
 
+# Broadcom
+
+## BCM61650
+
+* https://blog.xilokar.info/pwning-the-bcm61650.html
+
 # Cypress
 
 ## CY8C21434
