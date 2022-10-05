@@ -103,6 +103,10 @@ The list below is compiled to inform, guide, and inspire budding security resear
 
 * https://blog.quarkslab.com/vulnerabilities-in-high-assurance-boot-of-nxp-imx-microprocessors.html
 
+## i.MX with HAB < 4.3.7
+
+* https://research.nccgroup.com/2022/10/03/shining-new-light-on-an-old-rom-vulnerability/
+
 ## LPC
 
 * https://recon.cx/2017/brussels/resources/slides/RECON-BRX-2017-Breaking_CRP_on_NXP_LPC_Microcontrollers_slides.pdf
