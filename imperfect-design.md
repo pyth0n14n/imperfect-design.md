@@ -107,6 +107,10 @@ The list below is compiled to inform, guide, and inspire budding security resear
 
 * https://research.nccgroup.com/2022/10/03/shining-new-light-on-an-old-rom-vulnerability/
 
+## i.MX RT101x, i.MX RT102x, i.MX RT1050/6x, i.MX 6 Family, i.MX 7 Family, i.MX8M Quad/Mini, Vybrid
+
+* https://research.nccgroup.com/2022/11/17/cve-2022-45163/
+
 ## LPC
 
 * https://recon.cx/2017/brussels/resources/slides/RECON-BRX-2017-Breaking_CRP_on_NXP_LPC_Microcontrollers_slides.pdf
