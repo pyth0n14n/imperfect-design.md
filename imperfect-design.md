@@ -182,6 +182,10 @@ The list below is compiled to inform, guide, and inspire budding security resear
 
 # TI
 
+## CC2510Fx
+
+* [Reverse engineering an e-ink display](https://zeus.ugent.be/blog/22-23/reverse_engineering_epaper/)
+
 ## MSP430
 
 * [Practical Attacks against the MSP430 BSL](https://fahrplan.events.ccc.de/congress/2008/Fahrplan/attachments/1191_goodspeed_25c3_bslc.pdf)
