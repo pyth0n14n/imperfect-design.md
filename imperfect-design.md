@@ -22,6 +22,7 @@ The list below is compiled to inform, guide, and inspire budding security resear
 
 ## ESP32
 
+* https://raelize.com/blog/espressif-systems-esp32-breaking-hw-aes-with-power-analysis/
 * https://raelize.com/blog/espressif-esp32-bypassing-encrypted-secure-boot-cve-2020-13629/
 * https://raelize.com/blog/espressif-systems-esp32-bypassing-flash-encryption/
 * https://raelize.com/blog/espressif-systems-esp32-controlling-pc-during-sb/
