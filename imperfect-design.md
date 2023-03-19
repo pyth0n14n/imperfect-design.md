@@ -139,6 +139,7 @@ The list below is compiled to inform, guide, and inspire budding security resear
 
 * [Fill your Boots: Enhanced Embedded BootloaderExploits via Fault Injection and Binary Analysis](https://tches.iacr.org/index.php/TCHES/article/download/8727/8327/)
 * [Shaping the Glitch: Optimizing Voltage Fault Injection Attacks](https://tches.iacr.org/index.php/TCHES/article/download/7390/6562/)
+* [D78F0831Y](https://gist.github.com/mnaberez/ea3c3feb3a1619393b997bfb5e7de35f)
 
 ## RL78
 
