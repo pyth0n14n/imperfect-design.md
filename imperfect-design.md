@@ -127,6 +127,10 @@ The list below is compiled to inform, guide, and inspire budding security resear
 * https://oxide.computer/blog/lpc55/
 * https://oxide.computer/blog/another-vulnerability-in-the-lpc55s69-rom
 
+## PN54x
+
+* https://web.archive.org/web/20230609204446/https://www.pentestpartners.com/security-blog/breaking-the-nfc-chips-in-tens-of-millions-of-smart-phones-and-a-few-pos-systems/
+
 # Qualcomm
 
 ## MSM8994
