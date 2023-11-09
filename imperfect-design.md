@@ -133,6 +133,10 @@ The list below is compiled to inform, guide, and inspire budding security resear
 
 # Qualcomm
 
+## MSM8916/APQ8016
+
+* https://cyberintel.es/cve/notCVE-2023-0001/
+
 ## MSM8994
 
 * https://blog.quarkslab.com/analysis-of-qualcomm-secure-boot-chains.html
