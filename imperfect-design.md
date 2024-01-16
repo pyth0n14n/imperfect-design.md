@@ -30,6 +30,7 @@ The list below is compiled to inform, guide, and inspire budding security resear
 * https://limitedresults.com/2019/11/pwn-the-esp32-forever-flash-encryption-and-sec-boot-keys-extraction/
 * https://limitedresults.com/2019/09/pwn-the-esp32-secure-boot/
 * https://limitedresults.com/2019/08/pwn-the-esp32-crypto-core/
+* https://courk.cc/breaking-flash-encryption-of-espressif-parts
 
 # Infineon
 
