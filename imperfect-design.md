@@ -32,6 +32,12 @@ The list below is compiled to inform, guide, and inspire budding security resear
 * https://limitedresults.com/2019/08/pwn-the-esp32-crypto-core/
 * https://courk.cc/breaking-flash-encryption-of-espressif-parts
 
+# GigaDevice
+
+## Pretty much all of them
+
+https://web.archive.org/web/20240125094607/https://offzone.moscow/upload/iblock/0a5/nad1d86e3ah3ayx38ue56vxbh2j07kd4.pdf
+
 # Infineon
 
 ## SLE95250
