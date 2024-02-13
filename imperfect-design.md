@@ -175,6 +175,7 @@ https://web.archive.org/web/20240125094607/https://offzone.moscow/upload/iblock/
 ## STM8
 
 * [Fill your Boots: Enhanced Embedded BootloaderExploits via Fault Injection and Binary Analysis](https://tches.iacr.org/index.php/TCHES/article/download/8727/8327/)
+* [Dumping Firmware With a 555](https://web.archive.org/web/20230928204822/https://jrainimo.com/build/2022/01/dumping-firmware-with-a-555/)
 
 ## STM32F0
 
