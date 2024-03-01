@@ -1,5 +1,13 @@
 The list below is compiled to inform, guide, and inspire budding security researchers. Oh and to pick something for bedtime reading too.
 
+Included in the list are works on the following topics related to MCU/SoC security:
+
+* Secure boot
+* Fault injection
+* Side channel attacks
+
+At the end of the list, there is also a section with links to articles of potential general interest, not addressing vulnerabilities in any specific device.
+
 # Amlogic
 
 ## S905
@@ -37,6 +45,12 @@ The list below is compiled to inform, guide, and inspire budding security resear
 ## Pretty much all of them
 
 https://web.archive.org/web/20240125094607/https://offzone.moscow/upload/iblock/0a5/nad1d86e3ah3ayx38ue56vxbh2j07kd4.pdf
+
+# Google
+
+## Titan M
+
+* [Quarkslab:Attacking Titan M with Only One Byte](https://web.archive.org/web/20240117035133/https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html)
 
 # Infineon
 
@@ -242,3 +256,4 @@ https://web.archive.org/web/20240125094607/https://offzone.moscow/upload/iblock/
 * [Design Considerations for EM Pulse Fault Injection](https://www.esat.kuleuven.be/cosic/publications/article-3086.pdf)
 * [Shaping the Glitch: Optimizing Voltage Fault Injection Attacks](https://tches.iacr.org/index.php/TCHES/article/download/7390/6562/2561)
 * [Quarkslab:Vulnerabilities in the TPM 2.0 reference implementation code](https://web.archive.org/web/20240117034958/https://blog.quarkslab.com/vulnerabilities-in-the-tpm-20-reference-implementation-code.html)
+* [Quarkslab:RFID: Monotonic Counter Anti-Tearing Defeated](https://web.archive.org/web/20240117035029/https://blog.quarkslab.com/rfid-monotonic-counter-anti-tearing-defeated.html)
