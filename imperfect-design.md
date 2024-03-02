@@ -173,6 +173,10 @@ https://web.archive.org/web/20240125094607/https://offzone.moscow/upload/iblock/
 * [Shaping the Glitch: Optimizing Voltage Fault Injection Attacks](https://tches.iacr.org/index.php/TCHES/article/download/7390/6562/)
 * [D78F0831Y](https://web.archive.org/web/20230711112910/https://gist.github.com/mnaberez/ea3c3feb3a1619393b997bfb5e7de35f)
 
+## RH850
+
+* [Bypassing the Renesas RH850/P1M-E read protection using fault injection](https://web.archive.org/web/20231202142556/https://icanhack.nl/blog/rh850-glitch/)
+
 ## RL78
 
 * [f0:PS4 Aux Hax 2: Syscon](https://web.archive.org/web/20231207165505/https://fail0verflow.com/blog/2018/ps4-syscon/)
