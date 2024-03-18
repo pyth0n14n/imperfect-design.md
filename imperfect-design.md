@@ -250,6 +250,7 @@ https://web.archive.org/web/20240125094607/https://offzone.moscow/upload/iblock/
 # General interest
 
 * [The Sorcerer’s Apprentice Guide to Fault Attacks](https://eprint.iacr.org/2004/100.pdf)
+* [Skorobogatov:Copy Protection in Modern Microcontrollers](https://web.archive.org/web/20231231003605/https://www.cl.cam.ac.uk/~sps32/mcu_lock.html)
 * [chip.fail](https://web.archive.org/web/20231027173636/https://chip.fail/chipfail.pdf)
 * https://research.nccgroup.com/wp-content/uploads/2020/02/NCC-Group-Whitepaper-Microcontroller-Readback-Protection-1.pdf
 * [Taking a Look into Execute-Only Memory](https://www.usenix.org/system/files/woot19-paper_schink.pdf)
