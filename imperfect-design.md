@@ -165,13 +165,17 @@ https://web.archive.org/web/20240125094607/https://offzone.moscow/upload/iblock/
 
 * [Quarkslab:Analysis of Qualcomm Secure Boot Chains](https://web.archive.org/web/20240125071201/https://blog.quarkslab.com/analysis-of-qualcomm-secure-boot-chains.html)
 
-# Renesas
+# Renesas/NEC
 
 ## 78K0
 
 * [Fill your Boots: Enhanced Embedded BootloaderExploits via Fault Injection and Binary Analysis](https://tches.iacr.org/index.php/TCHES/article/download/8727/8327/)
 * [Shaping the Glitch: Optimizing Voltage Fault Injection Attacks](https://tches.iacr.org/index.php/TCHES/article/download/7390/6562/)
 * [D78F0831Y](https://web.archive.org/web/20230711112910/https://gist.github.com/mnaberez/ea3c3feb3a1619393b997bfb5e7de35f)
+
+## M306K9FCLRP and possibly others
+
+* [Hacking Toshiba Laptops](https://web.archive.org/web/20231214030150/https://cdn.hackaday.io/files/72330932832/slides-recon-2018.pdf)
 
 ## RH850
 
