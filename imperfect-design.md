@@ -266,3 +266,4 @@ https://web.archive.org/web/20240125094607/https://offzone.moscow/upload/iblock/
 * [Shaping the Glitch: Optimizing Voltage Fault Injection Attacks](https://tches.iacr.org/index.php/TCHES/article/download/7390/6562/2561)
 * [Quarkslab:Vulnerabilities in the TPM 2.0 reference implementation code](https://web.archive.org/web/20240117034958/https://blog.quarkslab.com/vulnerabilities-in-the-tpm-20-reference-implementation-code.html)
 * [Quarkslab:RFID: Monotonic Counter Anti-Tearing Defeated](https://web.archive.org/web/20240117035029/https://blog.quarkslab.com/rfid-monotonic-counter-anti-tearing-defeated.html)
+* [High Precision Laser Fault Injection using Low-cost Components](https://pure.royalholloway.ac.uk/en/publications/high-precision-laser-fault-injection-using-low-cost-components)
