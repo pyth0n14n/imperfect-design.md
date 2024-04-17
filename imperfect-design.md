@@ -267,3 +267,4 @@ https://web.archive.org/web/20240125094607/https://offzone.moscow/upload/iblock/
 * [Quarkslab:Vulnerabilities in the TPM 2.0 reference implementation code](https://web.archive.org/web/20240117034958/https://blog.quarkslab.com/vulnerabilities-in-the-tpm-20-reference-implementation-code.html)
 * [Quarkslab:RFID: Monotonic Counter Anti-Tearing Defeated](https://web.archive.org/web/20240117035029/https://blog.quarkslab.com/rfid-monotonic-counter-anti-tearing-defeated.html)
 * [High Precision Laser Fault Injection using Low-cost Components](https://pure.royalholloway.ac.uk/en/publications/high-precision-laser-fault-injection-using-low-cost-components)
+* [SiliconToaster: A Cheap and Programmable EM Injector for Extracting Secrets](https://eprint.iacr.org/2020/1115.pdf)
