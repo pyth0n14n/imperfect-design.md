@@ -180,6 +180,7 @@ https://web.archive.org/web/20240125094607/https://offzone.moscow/upload/iblock/
 ## RH850
 
 * [Bypassing the Renesas RH850/P1M-E read protection using fault injection](https://web.archive.org/web/20231202142556/https://icanhack.nl/blog/rh850-glitch/)
+* [RH850/F1L ID code check bypass via glitching](https://web.archive.org/web/20240516183127/https://jerinsunny.github.io/blogs/2024/02/14/rh850-voltage-glitching.html)
 
 ## RL78
 
