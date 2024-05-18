@@ -79,6 +79,10 @@ https://web.archive.org/web/20240125094607/https://offzone.moscow/upload/iblock/
 
 * [Microchip ATSAMA5 SoC Multiple Vulnerabilities](https://web.archive.org/web/20230320135233/https://labs.withsecure.com/advisories/microchip-atsama5-soc-multiple-vulnerabilities-full-release)
 
+## SAM E70/S70/V70/V71
+
+* [Bypassing Microchip Atmel SAM E70/S70/V70/V71 Security](https://web.archive.org/web/20240516213853/https://www.0x01team.com/hw_security/bypassing-microchip-atmel-sam-e70-s70-v70-v71-security/)
+
 ## PIC18F452
 
 * [Heart of Darkness - exploring the uncharted backwaters of HID iCLASS security](https://web.archive.org/web/20240106105035/https://get.meriac.com/docs/HID-iCLASS-security.pdf)
