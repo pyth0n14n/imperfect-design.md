@@ -20,6 +20,10 @@ At the end of the list, there is also a section with links to articles of potent
 
 * [Pwning the bcm61650](https://web.archive.org/web/20231216150355/https://blog.xilokar.info/pwning-the-bcm61650.html)
 
+# Commodore/CSG
+
+* [6500/1 ROM](https://web.archive.org/web/20240629160937/https://e4aws.silverdr.com/hacks/6500_1/) may be applicable to other mask ROM 6502
+
 # Cypress
 
 ## CY8C21434
