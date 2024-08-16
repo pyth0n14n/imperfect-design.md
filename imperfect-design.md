@@ -44,6 +44,12 @@ At the end of the list, there is also a section with links to articles of potent
 * [LimitedResults:Pwn the ESP32 crypto-core](https://web.archive.org/web/20240125071222/https://limitedresults.com/2019/08/pwn-the-esp32-crypto-core/)
 * [Courk:Breaking the Flash Encryption Feature of Espressif’s Parts](https://web.archive.org/web/20240126000044/https://courk.cc/breaking-flash-encryption-of-espressif-parts)
 
+# Fudan Micro
+
+## FM11RF08S
+
+* [MIFARE Classic: exposing the static encrypted nonce variant](https://eprint.iacr.org/2024/1275.pdf)
+
 # GigaDevice
 
 ## Pretty much all of them
