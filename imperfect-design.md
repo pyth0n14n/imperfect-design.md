@@ -46,7 +46,7 @@ At the end of the list, there is also a section with links to articles of potent
 
 # Fudan Micro
 
-## FM11RF08S
+## FM11RF08S, FM11RF08, FM11RF32, FM1208-10
 
 * [MIFARE Classic: exposing the static encrypted nonce variant](https://eprint.iacr.org/2024/1275.pdf)
 
